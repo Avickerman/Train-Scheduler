@@ -1,0 +1,12 @@
+.jumbotron{
+    /* background-image: url("../images/blackT.png"); */
+    background-image: url("https://t00.deviantart.net/cLBROyqLwv03K_qHB2GflAJx4Hc=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/8e5c/th/pre/i/2014/057/f/c/train_vectoring_by_meganekkoplymouth241-d7864e2.png");
+}
+
+.jumbotron h1 {
+	color: red;
+}
+
+.jumbotron h5 {
+    color: greenyellow;
+}
